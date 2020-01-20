@@ -2,5 +2,6 @@ Code repository for [https://www.packtpub.com/books/content/simple-todo-list-web
 
 Presently used by the following courses:
   - Deployment (FSWO108-3)
+  - Larry Cousino
 
 Confirm automation.
